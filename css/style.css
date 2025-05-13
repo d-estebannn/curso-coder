@@ -102,12 +102,15 @@ footer {background-color: orange; padding: 1.25rem; display: flex; gap: .625rem;
 
 }
 
+
+
+
 .section-principal .bur-ches {grid-column: 3/4; grid-row: 3/5; justify-self: start;}
 .section-principal .bur-clasica {grid-column: 4/5; grid-row: 3/5;justify-self: start;}
 .section-principal .vegeta {grid-column: 5/6; grid-row: 3/5;justify-self: start;}
 .vegeta img{height: 6.25rem;}
 .bur-clasica img{height: 5.00rem;}
-.bur-ches img{height: 6.25rem;}
+.bur-ches img{height: 8rem;}
 .section-principal .suc { grid-column: 3/5; grid-row: 3/4; background-color: orange;justify-self: start}
 .section-principal .promo1 { grid-column: 3/5; grid-row: 3/4; background-color: orange;justify-self: start}
 .section-principal .promo2{ grid-column: 3/5; grid-row: 4/5; background-color: orange;justify-self: center}
